@@ -42,8 +42,5 @@ public class Main {
             entity.writeTo(fos);
             fos.close();
         }
-
-
-
     }
 }
